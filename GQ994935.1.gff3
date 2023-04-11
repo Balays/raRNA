@@ -1,0 +1,120 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region GQ994935.1 1 138146
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=37296
+GQ994935.1	Genbank	region	1	138146	.	+	.	ID=GQ994935.1:1..138146;Dbxref=taxon:37296;clone=BAC16;gb-synonym=Kaposi's sarcoma-associated herpesvirus;gbkey=Src;genome=genomic;mol_type=genomic DNA;note=infectious BAC clone harboring full-length KSHV genome%3B derived from rKSHV.219%2C KSHV-infected JSC1 primary effusion lymphoma cell line;old-name=Human herpesvirus 8 type P;strain=JSC-1
+GQ994935.1	Genbank	CDS	105	959	.	+	0	ID=cds-ACY00482.1;Dbxref=NCBI_GP:ACY00482.1;Name=ACY00482.1;gbkey=CDS;product=K1;protein_id=ACY00482.1
+GQ994935.1	Genbank	CDS	1127	2779	.	+	0	ID=cds-ACY00396.1;Dbxref=NCBI_GP:ACY00396.1;Name=ACY00396.1;gbkey=CDS;product=ORF4;protein_id=ACY00396.1
+GQ994935.1	Genbank	CDS	3194	6592	.	+	0	ID=cds-ACY00397.1;Dbxref=NCBI_GP:ACY00397.1;Name=ACY00397.1;gbkey=CDS;product=ORF6;protein_id=ACY00397.1
+GQ994935.1	Genbank	CDS	6609	8696	.	+	0	ID=cds-ACY00398.1;Dbxref=NCBI_GP:ACY00398.1;Name=ACY00398.1;gbkey=CDS;product=ORF7;protein_id=ACY00398.1
+GQ994935.1	Genbank	CDS	8680	11217	.	+	0	ID=cds-ACY00399.1;Dbxref=NCBI_GP:ACY00399.1;Name=ACY00399.1;gbkey=CDS;product=ORF8;protein_id=ACY00399.1
+GQ994935.1	Genbank	CDS	11344	14382	.	+	0	ID=cds-ACY00400.1;Dbxref=NCBI_GP:ACY00400.1;Name=ACY00400.1;gbkey=CDS;product=ORF9;protein_id=ACY00400.1
+GQ994935.1	Genbank	CDS	14500	15756	.	+	0	ID=cds-ACY00401.1;Dbxref=NCBI_GP:ACY00401.1;Name=ACY00401.1;gbkey=CDS;product=ORF10;protein_id=ACY00401.1
+GQ994935.1	Genbank	CDS	15771	16994	.	+	0	ID=cds-ACY00402.1;Dbxref=NCBI_GP:ACY00402.1;Name=ACY00402.1;gbkey=CDS;product=ORF11;protein_id=ACY00402.1
+GQ994935.1	Genbank	CDS	17242	17856	.	-	0	ID=cds-ACY00403.1;Dbxref=NCBI_GP:ACY00403.1;Name=ACY00403.1;gbkey=CDS;product=K2;protein_id=ACY00403.1
+GQ994935.1	Genbank	CDS	17902	18534	.	-	0	ID=cds-ACY00404.1;Dbxref=NCBI_GP:ACY00404.1;Name=ACY00404.1;gbkey=CDS;product=ORF2;protein_id=ACY00404.1
+GQ994935.1	Genbank	CDS	18589	19557	.	-	0	ID=cds-ACY00405.1;Dbxref=NCBI_GP:ACY00405.1;Name=ACY00405.1;gbkey=CDS;product=K3;protein_id=ACY00405.1
+GQ994935.1	Genbank	CDS	20038	21051	.	-	0	ID=cds-ACY00406.1;Dbxref=NCBI_GP:ACY00406.1;Name=ACY00406.1;gbkey=CDS;product=ORF70;protein_id=ACY00406.1
+GQ994935.1	Genbank	CDS	21495	21779	.	-	0	ID=cds-ACY00407.1;Dbxref=NCBI_GP:ACY00407.1;Name=ACY00407.1;gbkey=CDS;product=K4;protein_id=ACY00407.1
+GQ994935.1	Genbank	CDS	22132	22476	.	-	0	ID=cds-ACY00408.1;Dbxref=NCBI_GP:ACY00408.1;Name=ACY00408.1;gbkey=CDS;product=K4.1;protein_id=ACY00408.1
+GQ994935.1	Genbank	CDS	22545	23093	.	-	0	ID=cds-ACY00409.1;Dbxref=NCBI_GP:ACY00409.1;Name=ACY00409.1;gbkey=CDS;product=K4.2;protein_id=ACY00409.1
+GQ994935.1	Genbank	inverted_repeat	23082	24240	.	+	.	ID=id-GQ994935.1:23082..24240;gbkey=repeat_region;rpt_family=LIR1;rpt_type=inverted
+GQ994935.1	Genbank	direct_repeat	24242	24681	.	+	.	ID=id-GQ994935.1:24242..24681;Note=22 copies;gbkey=repeat_region;rpt_family=DR1;rpt_type=direct
+GQ994935.1	Genbank	direct_repeat	24695	24849	.	+	.	ID=id-GQ994935.1:24695..24849;Note=5 copies;gbkey=repeat_region;rpt_family=DR2;rpt_type=direct
+GQ994935.1	Genbank	CDS	25663	26433	.	-	0	ID=cds-ACY00410.1;Dbxref=NCBI_GP:ACY00410.1;Name=ACY00410.1;gbkey=CDS;product=K5;protein_id=ACY00410.1
+GQ994935.1	Genbank	CDS	27087	27374	.	-	0	ID=cds-ACY00411.1;Dbxref=NCBI_GP:ACY00411.1;Name=ACY00411.1;gbkey=CDS;product=K6;protein_id=ACY00411.1
+GQ994935.1	Genbank	CDS	28572	28952	.	+	0	ID=cds-ACY00412.1;Dbxref=NCBI_GP:ACY00412.1;Name=ACY00412.1;gbkey=CDS;product=K7;protein_id=ACY00412.1
+GQ994935.1	Genbank	direct_repeat	29725	29774	.	+	.	ID=id-GQ994935.1:29725..29774;Note=3 copies;gbkey=repeat_region;rpt_family=DR3;rpt_type=direct
+GQ994935.1	Genbank	CDS	29962	30489	.	+	0	ID=cds-ACY00413.1;Dbxref=NCBI_GP:ACY00413.1;Name=ACY00413.1;gbkey=CDS;product=ORF16;protein_id=ACY00413.1
+GQ994935.1	Genbank	CDS	30639	32300	.	-	0	ID=cds-ACY00414.1;Dbxref=NCBI_GP:ACY00414.1;Name=ACY00414.1;gbkey=CDS;product=ORF17;protein_id=ACY00414.1
+GQ994935.1	Genbank	CDS	30639	31505	.	-	0	ID=cds-ACY00415.1;Dbxref=NCBI_GP:ACY00415.1;Name=ACY00415.1;gbkey=CDS;product=ORF17.5;protein_id=ACY00415.1
+GQ994935.1	Genbank	CDS	32242	33015	.	+	0	ID=cds-ACY00416.1;Dbxref=NCBI_GP:ACY00416.1;Name=ACY00416.1;gbkey=CDS;product=ORF18;protein_id=ACY00416.1
+GQ994935.1	Genbank	CDS	33012	34661	.	-	0	ID=cds-ACY00417.1;Dbxref=NCBI_GP:ACY00417.1;Name=ACY00417.1;gbkey=CDS;product=ORF19;protein_id=ACY00417.1
+GQ994935.1	Genbank	CDS	34429	35391	.	-	0	ID=cds-ACY00418.1;Dbxref=NCBI_GP:ACY00418.1;Name=ACY00418.1;gbkey=CDS;product=ORF20;protein_id=ACY00418.1
+GQ994935.1	Genbank	CDS	35201	36943	.	+	0	ID=cds-ACY00419.1;Dbxref=NCBI_GP:ACY00419.1;Name=ACY00419.1;gbkey=CDS;product=ORF21;protein_id=ACY00419.1
+GQ994935.1	Genbank	CDS	36931	39123	.	+	0	ID=cds-ACY00420.1;Dbxref=NCBI_GP:ACY00420.1;Name=ACY00420.1;gbkey=CDS;product=ORF22;protein_id=ACY00420.1
+GQ994935.1	Genbank	CDS	39120	40334	.	-	0	ID=cds-ACY00421.1;Dbxref=NCBI_GP:ACY00421.1;Name=ACY00421.1;gbkey=CDS;product=ORF23;protein_id=ACY00421.1
+GQ994935.1	Genbank	CDS	40338	42596	.	-	0	ID=cds-ACY00422.1;Dbxref=NCBI_GP:ACY00422.1;Name=ACY00422.1;gbkey=CDS;product=ORF24;protein_id=ACY00422.1
+GQ994935.1	Genbank	CDS	42595	46725	.	+	0	ID=cds-ACY00423.1;Dbxref=NCBI_GP:ACY00423.1;Name=ACY00423.1;gbkey=CDS;product=ORF25;protein_id=ACY00423.1
+GQ994935.1	Genbank	CDS	46751	47668	.	+	0	ID=cds-ACY00424.1;Dbxref=NCBI_GP:ACY00424.1;Name=ACY00424.1;gbkey=CDS;product=ORF26;protein_id=ACY00424.1
+GQ994935.1	Genbank	CDS	47690	48562	.	+	0	ID=cds-ACY00425.1;Dbxref=NCBI_GP:ACY00425.1;Name=ACY00425.1;gbkey=CDS;product=ORF27;protein_id=ACY00425.1
+GQ994935.1	Genbank	CDS	48808	49116	.	+	0	ID=cds-ACY00426.1;Dbxref=NCBI_GP:ACY00426.1;Name=ACY00426.1;gbkey=CDS;product=ORF28;protein_id=ACY00426.1
+GQ994935.1	Genbank	CDS	53572	54492	.	-	0	ID=cds-ACY00427.1;Dbxref=NCBI_GP:ACY00427.1;Name=ACY00427.1;gbkey=CDS;product=ORF29;protein_id=ACY00427.1
+GQ994935.1	Genbank	CDS	49179	50321	.	-	0	ID=cds-ACY00427.1;Dbxref=NCBI_GP:ACY00427.1;Name=ACY00427.1;gbkey=CDS;product=ORF29;protein_id=ACY00427.1
+GQ994935.1	Genbank	CDS	50440	50673	.	+	0	ID=cds-ACY00428.1;Dbxref=NCBI_GP:ACY00428.1;Name=ACY00428.1;gbkey=CDS;product=ORF30;protein_id=ACY00428.1
+GQ994935.1	Genbank	CDS	50580	51254	.	+	0	ID=cds-ACY00429.1;Dbxref=NCBI_GP:ACY00429.1;Name=ACY00429.1;gbkey=CDS;product=ORF31;protein_id=ACY00429.1
+GQ994935.1	Genbank	CDS	51221	52585	.	+	0	ID=cds-ACY00430.1;Dbxref=NCBI_GP:ACY00430.1;Name=ACY00430.1;gbkey=CDS;product=ORF32;protein_id=ACY00430.1
+GQ994935.1	Genbank	CDS	52578	53582	.	+	0	ID=cds-ACY00431.1;Dbxref=NCBI_GP:ACY00431.1;Name=ACY00431.1;gbkey=CDS;product=ORF33;protein_id=ACY00431.1
+GQ994935.1	Genbank	CDS	54491	55474	.	+	0	ID=cds-ACY00432.1;Dbxref=NCBI_GP:ACY00432.1;Name=ACY00432.1;gbkey=CDS;product=ORF34;protein_id=ACY00432.1
+GQ994935.1	Genbank	CDS	55455	55907	.	+	0	ID=cds-ACY00433.1;Dbxref=NCBI_GP:ACY00433.1;Name=ACY00433.1;gbkey=CDS;product=ORF35;protein_id=ACY00433.1
+GQ994935.1	Genbank	CDS	55792	57126	.	+	0	ID=cds-ACY00434.1;Dbxref=NCBI_GP:ACY00434.1;Name=ACY00434.1;gbkey=CDS;product=ORF36;protein_id=ACY00434.1
+GQ994935.1	Genbank	CDS	57089	58549	.	+	0	ID=cds-ACY00435.1;Dbxref=NCBI_GP:ACY00435.1;Name=ACY00435.1;gbkey=CDS;product=ORF37;protein_id=ACY00435.1
+GQ994935.1	Genbank	CDS	58504	58689	.	+	0	ID=cds-ACY00436.1;Dbxref=NCBI_GP:ACY00436.1;Name=ACY00436.1;gbkey=CDS;product=ORF38;protein_id=ACY00436.1
+GQ994935.1	Genbank	CDS	58789	59991	.	-	0	ID=cds-ACY00437.1;Dbxref=NCBI_GP:ACY00437.1;Name=ACY00437.1;gbkey=CDS;product=ORF39;protein_id=ACY00437.1
+GQ994935.1	Genbank	CDS	60124	61497	.	+	0	ID=cds-ACY00438.1;Dbxref=NCBI_GP:ACY00438.1;Name=ACY00438.1;gbkey=CDS;product=ORF40;protein_id=ACY00438.1
+GQ994935.1	Genbank	CDS	61643	62260	.	+	0	ID=cds-ACY00439.1;Dbxref=NCBI_GP:ACY00439.1;Name=ACY00439.1;gbkey=CDS;product=ORF41;protein_id=ACY00439.1
+GQ994935.1	Genbank	CDS	62252	63088	.	-	0	ID=cds-ACY00440.1;Dbxref=NCBI_GP:ACY00440.1;Name=ACY00440.1;gbkey=CDS;product=ORF42;protein_id=ACY00440.1
+GQ994935.1	Genbank	CDS	62952	64769	.	-	0	ID=cds-ACY00441.1;Dbxref=NCBI_GP:ACY00441.1;Name=ACY00441.1;gbkey=CDS;product=ORF43;protein_id=ACY00441.1
+GQ994935.1	Genbank	CDS	64708	67074	.	+	0	ID=cds-ACY00442.1;Dbxref=NCBI_GP:ACY00442.1;Name=ACY00442.1;gbkey=CDS;product=ORF44;protein_id=ACY00442.1
+GQ994935.1	Genbank	CDS	67169	68392	.	-	0	ID=cds-ACY00443.1;Dbxref=NCBI_GP:ACY00443.1;Name=ACY00443.1;gbkey=CDS;product=ORF45;protein_id=ACY00443.1
+GQ994935.1	Genbank	CDS	68453	69220	.	-	0	ID=cds-ACY00444.1;Dbxref=NCBI_GP:ACY00444.1;Name=ACY00444.1;gbkey=CDS;product=ORF46;protein_id=ACY00444.1
+GQ994935.1	Genbank	CDS	69228	69731	.	-	0	ID=cds-ACY00445.1;Dbxref=NCBI_GP:ACY00445.1;Name=ACY00445.1;gbkey=CDS;product=ORF47;protein_id=ACY00445.1
+GQ994935.1	Genbank	CDS	69989	71197	.	-	0	ID=cds-ACY00446.1;Dbxref=NCBI_GP:ACY00446.1;Name=ACY00446.1;gbkey=CDS;product=ORF48;protein_id=ACY00446.1
+GQ994935.1	Genbank	CDS	71412	71429	.	+	0	ID=cds-ACY00448.1;Dbxref=NCBI_GP:ACY00448.1;Name=ACY00448.1;gbkey=CDS;product=ORF50;protein_id=ACY00448.1
+GQ994935.1	Genbank	CDS	72388	74445	.	+	0	ID=cds-ACY00448.1;Dbxref=NCBI_GP:ACY00448.1;Name=ACY00448.1;gbkey=CDS;product=ORF50;protein_id=ACY00448.1
+GQ994935.1	Genbank	CDS	71446	72354	.	-	0	ID=cds-ACY00447.1;Dbxref=NCBI_GP:ACY00447.1;Name=ACY00447.1;gbkey=CDS;product=ORF49;protein_id=ACY00447.1
+GQ994935.1	Genbank	CDS	74666	75379	.	+	0	ID=cds-ACY00449.1;Dbxref=NCBI_GP:ACY00449.1;Name=ACY00449.1;gbkey=CDS;product=K8;protein_id=ACY00449.1
+GQ994935.1	Genbank	CDS	75461	75607	.	+	0	ID=cds-ACY00449.1;Dbxref=NCBI_GP:ACY00449.1;Name=ACY00449.1;gbkey=CDS;product=K8;protein_id=ACY00449.1
+GQ994935.1	Genbank	CDS	75731	76154	.	+	0	ID=cds-ACY00450.1;Dbxref=NCBI_GP:ACY00450.1;Name=ACY00450.1;gbkey=CDS;product=K8.1;protein_id=ACY00450.1
+GQ994935.1	Genbank	CDS	76249	76511	.	+	2	ID=cds-ACY00450.1;Dbxref=NCBI_GP:ACY00450.1;Name=ACY00450.1;gbkey=CDS;product=K8.1;protein_id=ACY00450.1
+GQ994935.1	Genbank	CDS	76618	77013	.	-	0	ID=cds-ACY00451.1;Dbxref=NCBI_GP:ACY00451.1;Name=ACY00451.1;gbkey=CDS;product=ORF52;protein_id=ACY00451.1
+GQ994935.1	Genbank	CDS	77149	77481	.	-	0	ID=cds-ACY00452.1;Dbxref=NCBI_GP:ACY00452.1;Name=ACY00452.1;gbkey=CDS;product=ORF53;protein_id=ACY00452.1
+GQ994935.1	Genbank	CDS	77483	78439	.	+	0	ID=cds-ACY00453.1;Dbxref=NCBI_GP:ACY00453.1;Name=ACY00453.1;gbkey=CDS;product=ORF54;protein_id=ACY00453.1
+GQ994935.1	Genbank	CDS	78581	79264	.	-	0	ID=cds-ACY00454.1;Dbxref=NCBI_GP:ACY00454.1;Name=ACY00454.1;gbkey=CDS;product=ORF55;protein_id=ACY00454.1
+GQ994935.1	Genbank	CDS	79252	81783	.	+	0	ID=cds-ACY00455.1;Dbxref=NCBI_GP:ACY00455.1;Name=ACY00455.1;gbkey=CDS;product=ORF56;protein_id=ACY00455.1
+GQ994935.1	Genbank	CDS	81886	81934	.	+	0	ID=cds-ACY00456.1;Dbxref=NCBI_GP:ACY00456.1;Name=ACY00456.1;gbkey=CDS;product=ORF57;protein_id=ACY00456.1
+GQ994935.1	Genbank	CDS	82043	83361	.	+	2	ID=cds-ACY00456.1;Dbxref=NCBI_GP:ACY00456.1;Name=ACY00456.1;gbkey=CDS;product=ORF57;protein_id=ACY00456.1
+GQ994935.1	Genbank	sequence_feature	83527	83528	.	+	.	ID=id-GQ994935.1:83527..83528;Note=insertion site for LoxP-BAC-EF1alpha-GFP-IRES-Hygro-pA-LoxP;gbkey=misc_feature
+GQ994935.1	Genbank	CDS	83677	85026	.	-	0	ID=cds-ACY00457.1;Dbxref=NCBI_GP:ACY00457.1;Name=ACY00457.1;gbkey=CDS;product=K9;protein_id=ACY00457.1
+GQ994935.1	Genbank	CDS	88261	88727	.	-	0	ID=cds-ACY00458.1;Dbxref=NCBI_GP:ACY00458.1;Name=ACY00458.1;gbkey=CDS;product=K10;protein_id=ACY00458.1
+GQ994935.1	Genbank	CDS	85891	88159	.	-	1	ID=cds-ACY00458.1;Dbxref=NCBI_GP:ACY00458.1;Name=ACY00458.1;gbkey=CDS;product=K10;protein_id=ACY00458.1
+GQ994935.1	Genbank	CDS	90757	91211	.	-	0	ID=cds-ACY00459.1;Dbxref=NCBI_GP:ACY00459.1;Name=ACY00459.1;gbkey=CDS;product=K10.5;protein_id=ACY00459.1
+GQ994935.1	Genbank	CDS	89417	90662	.	-	1	ID=cds-ACY00459.1;Dbxref=NCBI_GP:ACY00459.1;Name=ACY00459.1;gbkey=CDS;product=K10.5;protein_id=ACY00459.1
+GQ994935.1	Genbank	CDS	93457	93944	.	-	0	ID=cds-ACY00460.1;Dbxref=NCBI_GP:ACY00460.1;Name=ACY00460.1;gbkey=CDS;product=K11;protein_id=ACY00460.1
+GQ994935.1	Genbank	CDS	91781	93335	.	-	1	ID=cds-ACY00460.1;Dbxref=NCBI_GP:ACY00460.1;Name=ACY00460.1;gbkey=CDS;product=K11;protein_id=ACY00460.1
+GQ994935.1	Genbank	direct_repeat	92495	92842	.	+	.	ID=id-GQ994935.1:92495..92842;gbkey=repeat_region;rpt_family=DR4;rpt_type=direct
+GQ994935.1	Genbank	CDS	94290	95363	.	-	0	ID=cds-ACY00461.1;Dbxref=NCBI_GP:ACY00461.1;Name=ACY00461.1;gbkey=CDS;product=ORF58;protein_id=ACY00461.1
+GQ994935.1	Genbank	CDS	95368	96558	.	-	0	ID=cds-ACY00462.1;Dbxref=NCBI_GP:ACY00462.1;Name=ACY00462.1;gbkey=CDS;product=ORF59;protein_id=ACY00462.1
+GQ994935.1	Genbank	CDS	96689	97606	.	-	0	ID=cds-ACY00463.1;Dbxref=NCBI_GP:ACY00463.1;Name=ACY00463.1;gbkey=CDS;product=ORF60;protein_id=ACY00463.1
+GQ994935.1	Genbank	CDS	97635	100013	.	-	0	ID=cds-ACY00464.1;Dbxref=NCBI_GP:ACY00464.1;Name=ACY00464.1;gbkey=CDS;product=ORF61;protein_id=ACY00464.1
+GQ994935.1	Genbank	CDS	100018	101013	.	-	0	ID=cds-ACY00465.1;Dbxref=NCBI_GP:ACY00465.1;Name=ACY00465.1;gbkey=CDS;product=ORF62;protein_id=ACY00465.1
+GQ994935.1	Genbank	CDS	101027	103813	.	+	0	ID=cds-ACY00466.1;Dbxref=NCBI_GP:ACY00466.1;Name=ACY00466.1;gbkey=CDS;product=ORF63;protein_id=ACY00466.1
+GQ994935.1	Genbank	CDS	103819	111726	.	+	0	ID=cds-ACY00467.1;Dbxref=NCBI_GP:ACY00467.1;Name=ACY00467.1;gbkey=CDS;product=ORF64;protein_id=ACY00467.1
+GQ994935.1	Genbank	CDS	111750	112262	.	-	0	ID=cds-ACY00468.1;Dbxref=NCBI_GP:ACY00468.1;Name=ACY00468.1;gbkey=CDS;product=ORF65;protein_id=ACY00468.1
+GQ994935.1	Genbank	CDS	112289	113578	.	-	0	ID=cds-ACY00469.1;Dbxref=NCBI_GP:ACY00469.1;Name=ACY00469.1;gbkey=CDS;product=ORF66;protein_id=ACY00469.1
+GQ994935.1	Genbank	CDS	113512	114327	.	-	0	ID=cds-ACY00470.1;Dbxref=NCBI_GP:ACY00470.1;Name=ACY00470.1;gbkey=CDS;product=ORF67;protein_id=ACY00470.1
+GQ994935.1	Genbank	CDS	114382	114624	.	-	0	ID=cds-ACY00471.1;Dbxref=NCBI_GP:ACY00471.1;Name=ACY00471.1;gbkey=CDS;product=ORF67A;protein_id=ACY00471.1
+GQ994935.1	Genbank	CDS	114587	116224	.	+	0	ID=cds-ACY00472.1;Dbxref=NCBI_GP:ACY00472.1;Name=ACY00472.1;gbkey=CDS;product=ORF68;protein_id=ACY00472.1
+GQ994935.1	Genbank	CDS	116257	117165	.	+	0	ID=cds-ACY00473.1;Dbxref=NCBI_GP:ACY00473.1;Name=ACY00473.1;gbkey=CDS;product=ORF69;protein_id=ACY00473.1
+GQ994935.1	Genbank	CDS	117738	117920	.	-	0	ID=cds-ACY00474.1;Dbxref=NCBI_GP:ACY00474.1;Name=ACY00474.1;gbkey=CDS;product=K12;protein_id=ACY00474.1
+GQ994935.1	Genbank	direct_repeat	117942	118548	.	+	.	ID=id-GQ994935.1:117942..118548;Note=26 copies;gbkey=repeat_region;rpt_family=DR5;rpt_type=direct
+GQ994935.1	Genbank	direct_repeat	118549	119041	.	+	.	ID=id-GQ994935.1:118549..119041;Note=21 copies;gbkey=repeat_region;rpt_family=DR6;rpt_type=direct
+GQ994935.1	Genbank	inverted_repeat	119142	120320	.	+	.	ID=id-GQ994935.1:119142..120320;gbkey=repeat_region;rpt_family=LIR1;rpt_type=inverted
+GQ994935.1	Genbank	CDS	122588	123154	.	-	0	ID=cds-ACY00475.1;Dbxref=NCBI_GP:ACY00475.1;Name=ACY00475.1;gbkey=CDS;product=ORF71;protein_id=ACY00475.1
+GQ994935.1	Genbank	CDS	123237	124010	.	-	0	ID=cds-ACY00476.1;Dbxref=NCBI_GP:ACY00476.1;Name=ACY00476.1;gbkey=CDS;product=ORF72;protein_id=ACY00476.1
+GQ994935.1	Genbank	CDS	124252	127623	.	-	0	ID=cds-ACY00477.1;Dbxref=NCBI_GP:ACY00477.1;Name=ACY00477.1;gbkey=CDS;product=ORF73;protein_id=ACY00477.1
+GQ994935.1	Genbank	direct_repeat	124979	126633	.	+	.	ID=id-GQ994935.1:124979..126633;gbkey=repeat_region;rpt_family=DR7 (LANA IRD);rpt_type=direct
+GQ994935.1	Genbank	CDS	128441	129256	.	+	0	ID=cds-ACY00478.1;Dbxref=NCBI_GP:ACY00478.1;Name=ACY00478.1;gbkey=CDS;product=K14;protein_id=ACY00478.1
+GQ994935.1	Genbank	CDS	129697	130725	.	+	0	ID=cds-ACY00479.1;Dbxref=NCBI_GP:ACY00479.1;Name=ACY00479.1;gbkey=CDS;product=ORF74;protein_id=ACY00479.1
+GQ994935.1	Genbank	CDS	130876	134766	.	-	0	ID=cds-ACY00480.1;Dbxref=NCBI_GP:ACY00480.1;Name=ACY00480.1;gbkey=CDS;product=ORF75;protein_id=ACY00480.1
+GQ994935.1	Genbank	CDS	136860	137076	.	-	0	ID=cds-ACY00481.1;Dbxref=NCBI_GP:ACY00481.1;Name=ACY00481.1;gbkey=CDS;product=K15;protein_id=ACY00481.1
+GQ994935.1	Genbank	CDS	136658	136750	.	-	2	ID=cds-ACY00481.1;Dbxref=NCBI_GP:ACY00481.1;Name=ACY00481.1;gbkey=CDS;product=K15;protein_id=ACY00481.1
+GQ994935.1	Genbank	CDS	136332	136574	.	-	2	ID=cds-ACY00481.1;Dbxref=NCBI_GP:ACY00481.1;Name=ACY00481.1;gbkey=CDS;product=K15;protein_id=ACY00481.1
+GQ994935.1	Genbank	CDS	136154	136243	.	-	2	ID=cds-ACY00481.1;Dbxref=NCBI_GP:ACY00481.1;Name=ACY00481.1;gbkey=CDS;product=K15;protein_id=ACY00481.1
+GQ994935.1	Genbank	CDS	135924	136076	.	-	2	ID=cds-ACY00481.1;Dbxref=NCBI_GP:ACY00481.1;Name=ACY00481.1;gbkey=CDS;product=K15;protein_id=ACY00481.1
+GQ994935.1	Genbank	CDS	135734	135841	.	-	2	ID=cds-ACY00481.1;Dbxref=NCBI_GP:ACY00481.1;Name=ACY00481.1;gbkey=CDS;product=K15;protein_id=ACY00481.1
+GQ994935.1	Genbank	CDS	135550	135651	.	-	2	ID=cds-ACY00481.1;Dbxref=NCBI_GP:ACY00481.1;Name=ACY00481.1;gbkey=CDS;product=K15;protein_id=ACY00481.1
+GQ994935.1	Genbank	CDS	135001	135464	.	-	2	ID=cds-ACY00481.1;Dbxref=NCBI_GP:ACY00481.1;Name=ACY00481.1;gbkey=CDS;product=K15;protein_id=ACY00481.1
+GQ994935.1	Genbank	repeat_region	137346	138146	.	+	.	ID=id-GQ994935.1:137346..138146;gbkey=repeat_region;rpt_type=terminal
+
